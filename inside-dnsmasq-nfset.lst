@@ -1,3 +1,14 @@
+nftset=/cloudflare-ech.com/4#inet#fw4#vpn_domains
+nftset=/discord.app/4#inet#fw4#vpn_domains
+nftset=/discord.status/4#inet#fw4#vpn_domains
+nftset=/discordcdn.com/4#inet#fw4#vpn_domains
+nftset=/discordsez.com/4#inet#fw4#vpn_domains
+nftset=/yt3.ggpht.com/4#inet#fw4#vpn_domains
+nftset=/yt4.ggpht.com/4#inet#fw4#vpn_domains
+nftset=/stable.dl2.discordapp.ne/4#inet#fw4#vpn_domains
+nftset=/frankerfacez.com/4#inet#fw4#vpn_domains
+nftset=/ffzap.com/4#inet#fw4#vpn_domains
+nftset=/betterttv.net/4#inet#fw4#vpn_domains
 nftset=/pilgrimoutpost.techlandgg.com/4#inet#fw4#vpn_domains
 nftset=/cswatch.in/4#inet#fw4#vpn_domains
 nftset=/freemyip.com/4#inet#fw4#vpn_domains
